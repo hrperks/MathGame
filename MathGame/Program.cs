@@ -63,11 +63,6 @@ while (playable)
     input = string.Empty;
 }
 
-
-
-
-Console.WriteLine($"{name} got {score}");
-
 int Game(string Type)
 {
    
